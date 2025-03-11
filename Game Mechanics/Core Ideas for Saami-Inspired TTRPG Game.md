@@ -1,7 +1,5 @@
 # **Core Ideas for Saami-Inspired TTRPG Game**
 
-# ![](media/image1.jpg){width="2.4311832895888013in" height="2.4311832895888013in"}![](media/image2.jpg){width="2.432292213473316in" height="2.432292213473316in"}
-
 ## **Introduction**
 
 Step into a world shaped by the eternal cycle of seasons, where the
@@ -239,34 +237,6 @@ itself---rests in your hands.
 4.  Test interactions between seasonal powers and crafted tools to
     ensure synergy.
 
-# **Core Ideas for Saami-Inspired TTRPG Game**
-
-## **Introduction**
-
-Step into a world shaped by the eternal cycle of seasons, where the
-forces of nature and spirit intertwine to create a realm of beauty,
-mystery, and challenge. Inspired by the rich mythology of the Saami
-people, this game invites you to journey through lands imbued with the
-power of Spring\'s renewal, Summer\'s vitality, Autumn\'s
-transformation, and Winter\'s endurance. But the balance is fragile, and
-a looming threat---the Fifth Season---seeks to unravel the harmony that
-binds the world together.
-
-In this adventure, you play as a chosen guardian, deeply connected to
-the seasons and guided by the spirits of the land. Your task is not to
-conquer but to restore: to harmonize the natural and spiritual realms
-through crafting, rituals, and creative problem-solving. As you traverse
-the seasonal regions, you will gather rare resources, forge powerful
-tools, and perform intricate rituals to heal the land and mend fractured
-relationships with the haldi, the mystical guardians of the wild.
-
-This is not a story of brute force or domination but one of cooperation,
-ingenuity, and balance. Through vibrant pixel art, dynamic AI-driven
-storytelling, and innovative mechanics like Noaidi drumming and
-spirit-connected crafting, you will immerse yourself in a hopeful tale
-of renewal and unity. The fate of the seasons---and the world
-itself---rests in your hands.
-
 ## **Core Companions**
 
 ### **Overview**
@@ -469,7 +439,3 @@ and opportunities for exploration.
 3.  **Multiplayer Mode:** Players can share rare companions during co-op
     gameplay, encouraging collaborative exploration.
 
-This refined companion system balances deep storytelling for core
-companions with replayability through rare, temporary allies. Let me
-know if we should create additional documents for quests, mechanics, or
-lore tracking!

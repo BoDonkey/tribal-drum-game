@@ -1,4 +1,10 @@
-## Mining Tools & Techniques
+# Mining Tools & Techniques
+
+## Introduction
+
+This document details the specialized techniques, tools, and methods for harvesting and processing mineral resources throughout the seasonal regions. Minerals represent the enduring foundation of the natural world, carrying the memories and energies of countless seasonal cycles within their structures. From common stones to rare crystals, each mineral resource possesses unique properties that reflect its origin season and formation process. Proper extraction and refinement of these materials requires patience, precision, and deep respect for the earth's offerings.
+
+Mineral processing forms a critical component of a guardian's craft, providing stable bases for essence infusion, durable components for tools and structures, and powerful conduits for seasonal energies. When harvested with intention and processed with care, these resources become vital elements in maintaining harmony between the physical and spiritual realms.
 
 ### Mining Tools
 

@@ -7,6 +7,8 @@ This is an open development video game project being built in public. The game i
 
 The game is being developed in my free time without current external support, with a focus on engaging lore, mechanics, and community-driven improvements. By sharing progress in this repository, I hope to attract like-minded contributors who are interested in game development.
 
+This project is being developed in "collaboration" with various AI models to help flesh out ideas, and provide concrete working examples. It is expected that much of the code for the game will be coming from this "collaboration". However, visual resources in the game will be generated largely by direct artist contribution.
+
 ## Documentation
 
 This project includes a collection of markdown files that document the game's design, lore, mechanics, and development progress. You can browse these files directly on GitHub, or generate a local HTML website for easier navigation.

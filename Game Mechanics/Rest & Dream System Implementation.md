@@ -411,7 +411,3 @@ As players progress, they can improve wilderness resting:
 -   Might require returning home to \"complete\" the dream
 
 -   Can contain unique wilderness-specific content
-
-This approach creates a balanced system where players can choose their
-preferred play style while still engaging with the dream mechanic
-naturally.

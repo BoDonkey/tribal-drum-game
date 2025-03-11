@@ -515,6 +515,3 @@ Restore music to the grove by playing the correct seasonal melodies on the stone
 * No complex timing required—just the correct sequence  
 * Option to slow down the required tempo for easier play  
 * Companion help: each companion will glow when near their seasonal stones, helping identification
-
-These puzzle examples are designed to be accessible to casual gamers while still providing satisfying challenges that reinforce your game's themes of seasonal harmony and restoration.
-
