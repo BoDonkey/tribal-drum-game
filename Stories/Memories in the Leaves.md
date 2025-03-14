@@ -6,7 +6,7 @@ Loren stood motionless beneath the ancient oak, watching as crimson and gold lea
 
 Wispy's response came not as words but as impressions—a sense of time passing, of cycles completing. The owl had been Loren's guide since his awakening as an Autumn Guardian, teaching him the subtle art of preservation and memory.
 
-Loren checked his journal, reviewing the notes from his latest attunement dream. The Ancient Noaidi had been specific about the timing: Memory Seeds could only be planted during the waning moon before the autumn equinox, and they required three full days to mature. Once harvested, they would allow him to craft a Memory Vessel—a container that could preserve experiences in their purest form.
+Loren checked his journal, reviewing the notes from his latest attunement dream. The Ancient Thaum had been specific about the timing: Memory Seeds could only be planted during the waning moon before the autumn equinox, and they required three full days to mature. Once harvested, they would allow him to craft a Memory Vessel—a container that could preserve experiences in their purest form.
 
 Such an item would be invaluable in his work restoring balance to regions affected by the Fifth Season's chaos. Without proper memory, there could be no true healing.
 
@@ -68,7 +68,7 @@ Loren set his pack down and began preparing the garden. He first needed to clean
 
 The spores took hold immediately, tiny filaments spreading through the soil. Where they touched, brief flashes of memory rose like mist—fragments of previous guardians who had worked here, echoes of plantings from seasons long past. As the memories were released, they dispersed into the air, returning to the greater cycle.
 
-When the soil was properly cleansed, Loren removed a sealed box from his pack. Inside, nestled in layers of autumn leaves, were the Memory Seeds—small, amber-colored kernels that seemed to shift and change when not directly observed. He had collected them during his second attunement dream, a gift from the Ancient Noaidi.
+When the soil was properly cleansed, Loren removed a sealed box from his pack. Inside, nestled in layers of autumn leaves, were the Memory Seeds—small, amber-colored kernels that seemed to shift and change when not directly observed. He had collected them during his second attunement dream, a gift from the Ancient Thaum.
 
 Following the pattern described in his dream journal, Loren carefully placed seven seeds in the garden, arranging them in a specific constellation that mirrored the alignment of stars visible only during the autumn equinox.
 

@@ -21,7 +21,7 @@
 
 -   Main Quests: Restore the central harmony point in each region by:
 
-    1.  Building relationships with each region's haldi spirits
+    1.  Building relationships with each region's veridian spirits
 
     2.  Performing seasonal rituals with respective companions
 
@@ -41,7 +41,7 @@
 
     -   Crafting the Harmony Drum using materials from all regions
 
-    -   Learning the ancient rhythm patterns from haldi elders
+    -   Learning the ancient rhythm patterns from veridian elders
 
 ### **Resolution**
 
@@ -74,7 +74,7 @@
 -   **Disharmony**: Areas where seasonal energies conflict, creating
     disorienting effects
 
--   **Spirit Trials**: Tests set by haldi to prove worthiness
+-   **Spirit Trials**: Tests set by veridian to prove worthiness
 
 -   **Chaos Manifestations**: Smaller pockets of Fifth Season influence
     that must be cleansed
@@ -84,7 +84,7 @@
 
 ### **Social Challenges**
 
--   **Conflict Resolution**: Mediating disputes between different haldi
+-   **Conflict Resolution**: Mediating disputes between different veridian
     groups
 
 -   **Trust Building**: Earning the trust of skeptical spirits or
@@ -149,7 +149,7 @@ These rhythmic patterns could serve as your non-violent \"spells\":
     -   Finding the rare Renewal Flower that only grows in hidden
         locations
 
-    -   Convincing the withdrawn Spring Haldi to teach you the Growth
+    -   Convincing the withdrawn Spring veridian to teach you the Growth
         Rhythm
 
     -   Performing a renewal ritual during the perfect alignment of moon
@@ -269,7 +269,7 @@ To accommodate different ages and stress tolerances:
 -   The world recognizes them as \"Spring-Called\" or \"Winter-Touched\"
     etc.
 
--   Haldi of their season are naturally more receptive
+-   veridian of their season are naturally more receptive
 
 -   Their connection helps heal their season\'s region more effectively
 

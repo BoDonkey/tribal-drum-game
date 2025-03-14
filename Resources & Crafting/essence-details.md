@@ -77,7 +77,7 @@ Essence work requires exceptional sensitivity to natural forces and represents o
 | Essence | Manifestation | Collection Requirement | Properties |
 |---------|--------------|------------------------|------------|
 | **Perfect Harmony** | Balanced energy of all seasons | Presence at all four seasonal peaks in one cycle | Complete balance, universal application, transcendence |
-| **Haldi Blessing** | Gift energy from regional spirits | Deep relationship with specific haldi groups | Authentic connection, regional mastery, spirit bridge |
+| **veridian Blessing** | Gift energy from regional spirits | Deep relationship with specific veridian groups | Authentic connection, regional mastery, spirit bridge |
 | **Fifth Season Fragment** | Stabilized chaos energy | Careful collection from discord manifestations | Transformation, unlimited potential, boundary breaking |
 | **Heart of Seasons** | Core energy from seasonal shrine network | Activation of all shrines in one region | Regional mastery, seasonal authority, restoration power |
 | **Companion Bond** | Energy manifestation of perfect partnership | Years of mutual growth with companion | Trust, synergy, enhanced abilities |
@@ -424,7 +424,7 @@ Essence work requires exceptional sensitivity to natural forces and represents o
 - Introduce essence work through guided companion interactions
 - Dreams provide insights into more advanced techniques
 - Journal automatically records successful collections and their properties
-- Advanced techniques revealed through shrine restoration and haldi guidance
+- Advanced techniques revealed through shrine restoration and veridian guidance
 
 ### Essence Visualization
 

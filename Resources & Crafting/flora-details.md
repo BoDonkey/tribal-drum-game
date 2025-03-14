@@ -98,7 +98,7 @@ This document details the specialized techniques, tools, and methods for ethical
 | **Ancient Trees** | Request permission through drum rhythm | Guardian's Introduction | May provide rare materials voluntarily |
 | **Spirit-Touched Plants** | Offering of essence from your season | Essence Exchange | Enhanced properties in harvested materials |
 | **Boundary Flora** | Harvesting at seasonal transition time | Boundary Respect Ritual | Materials retain dual-season properties |
-| **Haldi-Protected Growth** | Seek haldi spirits' permission first | Haldi Gift Exchange | Access to otherwise unavailable plants |
+| **veridian-Protected Growth** | Seek veridian spirits' permission first | veridian Gift Exchange | Access to otherwise unavailable plants |
 
 ---
 
@@ -270,14 +270,14 @@ This document details the specialized techniques, tools, and methods for ethical
 | **Autumn Memory Salve** | Preservation with ancestor invocation | Apply to distorted objects | Helps objects remember proper form |
 | **Winter Clarity Crystal** | Stillness infusion in aurora light | Place at discord center | Creates zone of stability around crystal |
 
-### Haldi Offerings
+### veridian Offerings
 
 | Offering Type | Composition | Preparation Method | Purpose |
 |--------------|-------------|-------------------|---------|
-| **Spring Growth Bundle** | Seven varieties of new growth | Bound with living fiber during dawn | Thank spring haldi for growth guidance |
-| **Summer Energy Wreath** | Sun-charged flowers in circular pattern | Woven at noon, charged until sunset | Honor summer haldi for energy teachings |
-| **Autumn Transition Collection** | Perfect examples of transformation | Gathered during color change, preserved instantly | Acknowledge autumn haldi's wisdom |
-| **Winter Stillness Crystal** | Snow flower preserved in ice | Collected during perfect silence | Respect winter haldi's protection |
+| **Spring Growth Bundle** | Seven varieties of new growth | Bound with living fiber during dawn | Thank spring veridian for growth guidance |
+| **Summer Energy Wreath** | Sun-charged flowers in circular pattern | Woven at noon, charged until sunset | Honor summer veridian for energy teachings |
+| **Autumn Transition Collection** | Perfect examples of transformation | Gathered during color change, preserved instantly | Acknowledge autumn veridian's wisdom |
+| **Winter Stillness Crystal** | Snow flower preserved in ice | Collected during perfect silence | Respect winter veridian's protection |
 
 ---
 
@@ -295,6 +295,6 @@ This document details the specialized techniques, tools, and methods for ethical
 
 - Initial simple harvesting taught through companion guidance
 - Processing techniques introduced gradually through dreams
-- Advanced combinations discovered through experimentation and haldi guidance
+- Advanced combinations discovered through experimentation and veridian guidance
 - Journal automatically records successful combinations and their effects
 - Subtle visual cues show potential synergies between plants

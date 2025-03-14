@@ -380,10 +380,10 @@ Advanced companions can teach the player special techniques:
 
 ### Companion Spirit Connection
 
-At the highest relationship levels, companions reveal their connection to the haldi spirits:
+At the highest relationship levels, companions reveal their connection to the veridian spirits:
 
 #### Spirit Intermediaries
-- Companions can help communicate with region-specific haldi
+- Companions can help communicate with region-specific veridian
 - Unlocks special spirit-assisted crafting techniques
 - Allows gathering of otherwise inaccessible spirit-connected materials
 - Enables creation of items that bridge physical and spirit realms

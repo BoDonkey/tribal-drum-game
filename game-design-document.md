@@ -20,7 +20,7 @@
 1. **Explore** seasonal environments with animal companions
 2. **Gather** resources specific to each season and region
 3. **Craft** items, tools, and spiritual objects
-4. **Perform** rituals using the noaidi drumming system
+4. **Perform** rituals using the thaum drumming system
 5. **Restore** harmony to areas affected by the Fifth Season
 6. **Build** relationships with companions and spirits
 
@@ -370,4 +370,4 @@ World (Main Scene)
 - Harmony Patterns (calming, communication)
 - Elemental Patterns (environmental effects)
 - Seasonal Patterns (seasonal manipulation)
-- Spirit Communication (haldi interaction)
+- Spirit Communication (veridian interaction)

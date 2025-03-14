@@ -17,18 +17,18 @@ conquer but to restore: to harmonize the natural and spiritual realms
 through crafting, rituals, and creative problem-solving. As you traverse
 the seasonal regions, you will gather rare resources, forge powerful
 tools, and perform intricate rituals to heal the land and mend fractured
-relationships with the haldi, the mystical guardians of the wild.
+relationships with the veridian, the mystical guardians of the wild.
 
 This is not a story of brute force or domination but one of cooperation,
 ingenuity, and balance. Through vibrant pixel art, dynamic AI-driven
-storytelling, and innovative mechanics like Noaidi drumming and
+storytelling, and innovative mechanics like Thaum drumming and
 spirit-connected crafting, you will immerse yourself in a hopeful tale
 of renewal and unity. The fate of the seasons---and the world
 itself---rests in your hands.
 
 ## **1. Game Overview**
 
--   **Theme:** A Saami-inspired 2D adventure game focused on harmony,
+-   **Theme:** A Saami-inspired 3D adventure game focused on harmony,
     seasons, and spirituality.
 
 -   **Setting:** A world divided into seasonal regions (Spring, Summer,
@@ -129,7 +129,7 @@ itself---rests in your hands.
 
 ### **Crafting System Features:**
 
--   **Workshops:** Found at campfires, shrines, or haldi altars.
+-   **Workshops:** Found at campfires, shrines, or veridian altars.
 
 -   **Recipe Discovery:** Experiment with combinations to unlock new
     items.
@@ -164,11 +164,11 @@ itself---rests in your hands.
 
     -   Distract predators with bait.
 
-    -   Calm haldi spirits with crafted charms.
+    -   Calm veridian spirits with crafted charms.
 
     -   Escape environmental dangers like avalanches or floods.
 
-## **5. Noaidi Magic System**
+## **5. Thaum Magic System**
 
 ### **Drumming Mechanics:**
 
@@ -181,7 +181,7 @@ itself---rests in your hands.
 
         -   Heal allies or the environment.
 
-        -   Calm hostile haldi.
+        -   Calm hostile veridian.
 
 -   **Drum Customization:** Upgrade drums with materials (e.g.,
     Aurora-imbued skins).
@@ -202,7 +202,7 @@ itself---rests in your hands.
 
 ### **Core Narrative:**
 
--   Restore harmony to the seasons by reuniting fragmented haldi
+-   Restore harmony to the seasons by reuniting fragmented veridian
     guardians.
 
 -   Confront the looming threat of the Fifth Season (Chaos).
@@ -266,7 +266,7 @@ periods, offering unique abilities or flavor to the journey.
         -   Late: Revives the player if they fall in combat.
 
     -   **Side Quest:** Bloom leads the player to a hidden grove where
-        an ancient haldi sleeps. Completing this quest strengthens their
+        an ancient veridian sleeps. Completing this quest strengthens their
         healing abilities and reveals more about the Fifth Season's
         corruption.
 
@@ -308,7 +308,7 @@ periods, offering unique abilities or flavor to the journey.
             environmental challenges.
 
     -   **Side Quest:** Wispy guides the player to an ancient library,
-        unlocking forgotten knowledge about the haldi and enhancing
+        unlocking forgotten knowledge about the veridian and enhancing
         their illusion abilities.
 
 4.  **Winter Companion: Frost (Wolf)\
@@ -327,7 +327,7 @@ periods, offering unique abilities or flavor to the journey.
             harsh weather.
 
     -   **Side Quest:** Frost helps the player deliver offerings to an
-        isolated haldi during a fierce blizzard, unlocking an ice shield
+        isolated veridian during a fierce blizzard, unlocking an ice shield
         ability and a deeper connection to the spirit world.
 
 ### **Temporary Rare Companions**
@@ -366,7 +366,7 @@ and opportunities for exploration.
 3.  **Hare (Spirit of Quickness):\
     **
 
-    -   Found in Spring after helping a haldi restore a meadow.
+    -   Found in Spring after helping a veridian restore a meadow.
 
     -   Abilities:
 
@@ -412,7 +412,7 @@ and opportunities for exploration.
     -   Unique side quests deepen the relationship with each core
         companion.
 
-    -   Conversations reveal lore about the world, the haldi, and the
+    -   Conversations reveal lore about the world, the veridian, and the
         Fifth Season.
 
 ## **Replayability and Expansion**

@@ -98,7 +98,7 @@ Ice Acoustics Cave or Winter home stillness chamber
 - 1× Clarity Crystal (focal point)
 
 **Crafting Location:**  
-Haldi Gathering Circle (Spring region)
+veridian Gathering Circle (Spring region)
 
 **Properties:**
 - Enhances perception of plant life
@@ -552,7 +552,7 @@ Seasonal Boundary Zone
 - 1× Stabilizing material (varies by essence type)
 
 **Crafting Location:**  
-Haldi Gathering Circle
+veridian Gathering Circle
 
 **Properties:**
 - Safely collects volatile essences
@@ -742,7 +742,7 @@ Ice Acoustics Cave with Frost's assistance
 - 1× Growth Essence (infusion)
 
 **Crafting Location:**  
-Spring Haldi Gathering Circle during new moon
+Spring veridian Gathering Circle during new moon
 
 **Properties:**
 - Enhances connection to spring spirits
@@ -974,7 +974,7 @@ Complete at different seasonal crafting stations (one step in each)
 - New recipes discovered through:
   - Exploration of crafting locations
   - Building relationships with companions
-  - Completing quests for haldi spirits
+  - Completing quests for veridian spirits
   - Experimenting with material combinations
 
 ### Crafting Difficulty

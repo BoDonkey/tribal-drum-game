@@ -101,26 +101,26 @@ Players use voice, drums, or special resonant tools to create sound patterns tha
 
 ## Spirit-Assisted Workshops
 
-### Haldi Gathering Circles
-**Region:** All regions (different haldi types)
+### veridian Gathering Circles
+**Region:** All regions (different veridian types)
 
 **Description:**  
-Natural clearings where haldi spirits (nature guardians) regularly gather. When properly invited, these spirits will assist in crafting by lending their innate abilities to the process. Each seasonal region has different types of haldi with unique crafting specialties.
+Natural clearings where veridian spirits (nature guardians) regularly gather. When properly invited, these spirits will assist in crafting by lending their innate abilities to the process. Each seasonal region has different types of veridian with unique crafting specialties.
 
 **Unique Properties:**
-- Haldi can manipulate materials in ways impossible for players alone
-- Enhanced crafting based on the type of haldi present (varies by region)
-- Successful crafting strengthens relationships with haldi, unlocking new abilities
-- Some rare materials can only be processed with haldi assistance
+- veridian can manipulate materials in ways impossible for players alone
+- Enhanced crafting based on the type of veridian present (varies by region)
+- Successful crafting strengthens relationships with veridian, unlocking new abilities
+- Some rare materials can only be processed with veridian assistance
 
 **Regional Variations:**
-- Spring Haldi: Specialize in growth, flexibility, and renewal
-- Summer Haldi: Masters of energy, heat, and transformation
-- Autumn Haldi: Experts in preservation, memory, and combination
-- Winter Haldi: Skilled with precision, purification, and crystallization
+- Spring veridian: Specialize in growth, flexibility, and renewal
+- Summer veridian: Masters of energy, heat, and transformation
+- Autumn veridian: Experts in preservation, memory, and combination
+- Winter veridian: Skilled with precision, purification, and crystallization
 
 **Interaction Method:**
-Players must first establish relationships with local haldi through offerings and completing small tasks. Once trust is established, specific drum patterns or rituals can invite them to assist with crafting. The strength of the relationship affects the quality of assistance.
+Players must first establish relationships with local veridian through offerings and completing small tasks. Once trust is established, specific drum patterns or rituals can invite them to assist with crafting. The strength of the relationship affects the quality of assistance.
 
 ---
 
@@ -399,7 +399,7 @@ The only place where Fifth Season materials can be safely worked into items. Can
 ### Crafting Location Discovery
 - Basic processing stations are visible and accessible from early in the game
 - More specialized locations are discovered through exploration
-- Some crafting locations are revealed by companions or friendly haldi
+- Some crafting locations are revealed by companions or friendly veridian
 - The most powerful locations require quests or special conditions to access
 
 ### Visual Indicators

@@ -71,7 +71,7 @@ Using sound, particularly drum rhythms, to adjust or enhance an item's inherent 
 #### Spirit Connection Harmonization
 - **Primary Effect**: Enhances item's connection to spiritual world
 - **Recommended Items**: Communication tools, talismans, ceremonial objects
-- **Key Rhythm**: "Voice-of-the-Spirits" pattern (taught by Haldi)
+- **Key Rhythm**: "Voice-of-the-Spirits" pattern (taught by veridian)
 - **Visual Indicator**: Item briefly becomes semi-transparent during harmonization
 
 #### Elemental Attunement Harmonization
@@ -213,7 +213,7 @@ Formal ceremonies that invoke specific natural or spiritual forces to enhance it
 - **Example Enhancement**: A summer-aligned tool that works with double efficiency in Summer region but requires special care in Winter
 
 #### Spirit Blessing Ritual
-- **Primary Effect**: Connects item to specific type of spirit or haldi
+- **Primary Effect**: Connects item to specific type of spirit or veridian
 - **Key Components**: Offerings preferred by target spirit type
 - **Ideal Timing**: When target spirits are most active
 - **Outcome**: Spirit occasionally assists when item is used

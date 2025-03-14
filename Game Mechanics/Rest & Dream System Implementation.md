@@ -182,7 +182,7 @@ provide unique dream experiences:
 
     -   Can trigger unique cross-seasonal dreams
 
-2.  **Spirit Resting Places**: Locations where haldi spirits gather
+2.  **Spirit Resting Places**: Locations where veridian spirits gather
 
     -   Higher chance for spirit communication dreams
 

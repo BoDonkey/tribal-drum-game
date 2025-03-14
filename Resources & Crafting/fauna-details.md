@@ -359,6 +359,6 @@ This document details the specialized techniques, tools, and methods for ethical
 
 - Initial gathering taught through companion guidance
 - Processing techniques introduced through dreams and gentle discovery
-- Advanced combinations learned from haldi spirits and experienced guardians
+- Advanced combinations learned from veridian spirits and experienced guardians
 - Journal automatically records ethically gathered materials and their properties
 - Seasonal ceremonies reveal special gathering opportunities

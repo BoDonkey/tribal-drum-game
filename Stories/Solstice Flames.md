@@ -8,7 +8,7 @@ Ember yipped in agreement, his amber eyes scanning the horizon. The fox had grow
 
 "If we miss this solstice, we'll wait another full cycle before we can craft your Focus Collar," Kaiyu said, adjusting the gathering basket strapped to her back. "The Flame Crystals only form in the pools during the peak of summer power."
 
-Their journey had already taken two days, following the directions from Kaiyu's third attunement dream. In it, an Ancient Noaidi had shown her the Sunfire Pools—natural hot springs that, on the solstice, produced rare crystals infused with pure summer essence. With these, she could craft a tool to enhance Ember's natural ability to locate hidden energy sources.
+Their journey had already taken two days, following the directions from Kaiyu's third attunement dream. In it, an Ancient Thaum had shown her the Sunfire Pools—natural hot springs that, on the solstice, produced rare crystals infused with pure summer essence. With these, she could craft a tool to enhance Ember's natural ability to locate hidden energy sources.
 
 The fox suddenly darted ahead, stopped, and looked back expectantly. Kaiyu had learned to trust his instincts during their partnership.
 

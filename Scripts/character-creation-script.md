@@ -16,16 +16,16 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 
 *The game begins with a black screen and gentle ambient sounds. Soft drum beats gradually emerge.*
 
-### Voiceover (Elder Noaidi)
+### Voiceover (Elder Thaum)
 > *"In the beginning, there were four seasons, in perfect harmony. Each with their gift, each with their time."*
 
 *The screen slowly fades in to show swirling aurora-like lights in four colors: green (Spring), golden (Summer), red-orange (Autumn), and blue (Winter).*
 
-> *"Spring brought renewal, Summer brought growth, Autumn brought wisdom, Winter brought rest. The cycle continued, unbroken, watched over by the haldi spirits and their animal guardians."*
+> *"Spring brought renewal, Summer brought growth, Autumn brought wisdom, Winter brought rest. The cycle continued, unbroken, watched over by the veridian spirits and their animal guardians."*
 
 *The lights form into four spirit animals that circle each other: a reindeer (Bloom), a fox (Ember), an owl (Wispy), and a wolf (Frost).*
 
-> *"But now, a Fifth Season emerges—not of harmony, but of chaos. The boundaries between seasons blur. The haldi retreat. The world cries out for one who can restore balance."*
+> *"But now, a Fifth Season emerges—not of harmony, but of chaos. The boundaries between seasons blur. The veridian retreat. The world cries out for one who can restore balance."*
 
 *The harmonious scene is disrupted as gray, shifting tendrils intrude from the edges, causing the spirit animals to scatter and the colors to dim.*
 
@@ -37,9 +37,9 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 
 ## Character Customization: Preparing for the Ceremony
 
-*The player now has control of their character for the first time. An elder noaidi (shaman) waits outside the dwelling.*
+*The player now has control of their character for the first time. An elder thaum (shaman) waits outside the dwelling.*
 
-### Elder Noaidi Dialog
+### Elder Thaum Dialog
 "The calling ceremony will begin soon. But first, you must prepare yourself."
 
 #### Tutorial Prompt
@@ -61,7 +61,7 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 | **Carved Pendant** | Artisan/Crafter | +Basic crafting recipe already known |
 | **Small Knife** | Explorer/Gatherer | +Ability to gather special resources |
 
-*After the player has finished customizing, the elder noaidi speaks again:*
+*After the player has finished customizing, the elder thaum speaks again:*
 
 "It is time. The spirits await you at the Sacred Circle. Follow me."
 
@@ -71,7 +71,7 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 
 *The player follows the elder to a stone circle illuminated by four ceremonial fires—each burning with a different colored flame representing a season. Other villagers are gathered around, drumming softly.*
 
-### Elder Noaidi
+### Elder Thaum
 "Step into the circle. Feel the seasons. Listen to their call. One will speak to your spirit more strongly than the others."
 
 *The player can now move freely between the four fires. As they approach each one, they experience a vision and hear the voice of that season.*
@@ -84,7 +84,7 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 > "I am the season of beginnings, of gentle awakening and new growth. My power is that of healing and renewal. Those who hear my call see potential where others see barrenness. They nurture what is fragile until it stands strong."
 
 **Gameplay Preview:**
-*Brief vision shows the player character using healing abilities, growing plants rapidly, and communicating with spring haldi spirits.*
+*Brief vision shows the player character using healing abilities, growing plants rapidly, and communicating with spring veridian spirits.*
 
 **If Selected:**
 - Starting Region: Spring Meadows
@@ -100,7 +100,7 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 > "I am the season of fullness, of vibrant energy and boundless light. My power is that of vitality and transformation. Those who hear my call bring warmth to the coldest places. They find paths where others see only obstacles."
 
 **Gameplay Preview:**
-*Brief vision shows the player character using light manipulation, moving with enhanced speed, and communicating with summer haldi spirits.*
+*Brief vision shows the player character using light manipulation, moving with enhanced speed, and communicating with summer veridian spirits.*
 
 **If Selected:**
 - Starting Region: Summer Plains
@@ -116,7 +116,7 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 > "I am the season of harvest, of reflection and preserving wisdom. My power is that of memory and transformation. Those who hear my call see patterns where others see chaos. They remember what others forget."
 
 **Gameplay Preview:**
-*Brief vision shows the player character using memory-viewing abilities, transforming objects, and communicating with autumn haldi spirits.*
+*Brief vision shows the player character using memory-viewing abilities, transforming objects, and communicating with autumn veridian spirits.*
 
 **If Selected:**
 - Starting Region: Autumn Groves
@@ -132,7 +132,7 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 > "I am the season of endurance, of quiet strength and deep protection. My power is that of preservation and clarity. Those who hear my call stand firm where others retreat. They find stillness in the midst of storms."
 
 **Gameplay Preview:**
-*Brief vision shows the player character creating protective barriers, withstanding harsh conditions, and communicating with winter haldi spirits.*
+*Brief vision shows the player character creating protective barriers, withstanding harsh conditions, and communicating with winter veridian spirits.*
 
 **If Selected:**
 - Starting Region: Winter Highlands
@@ -146,12 +146,12 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 
 *Once the player selects a season by approaching its fire and confirming their choice, the ceremony continues.*
 
-### Elder Noaidi
+### Elder Thaum
 "The [selected season] speaks through you. Its strength will be your strength. But remember, true harmony requires understanding of all seasons."
 
 *The player's clothing subtly changes to incorporate elements of their chosen season. The corresponding spirit animal approaches from the darkness and stands beside them.*
 
-### Elder Noaidi
+### Elder Thaum
 "Your first guide has found you. Together, you will seek out the others."
 
 *Suddenly, all four fires flare intensely, and the player experiences a shared vision with all ceremony participants:*
@@ -189,7 +189,7 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 
 *The player finds themselves back in the ceremonial circle, their chosen companion animal still beside them. The gathered villagers look at them with a mixture of hope and concern.*
 
-### Elder Noaidi
+### Elder Thaum
 "You have been shown what may come to pass. The path will not be easy, but you will not walk it alone."
 
 *The elder hands the player a simple drum.*
@@ -201,7 +201,7 @@ The sequence unfolds as a vision/dream that transitions into the Seasonal Callin
 
 *A simple mini-game introduces the basic drumming mechanic, teaching the pattern associated with the player's chosen season.*
 
-### Elder Noaidi
+### Elder Thaum
 "Tomorrow, you begin your journey. Rest now, for the path ahead is long."
 
 *The screen fades to black, ending the character creation sequence and transitioning to the start of gameplay.*

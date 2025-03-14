@@ -216,7 +216,7 @@ Rare locations with special properties:
 
 - **Seasonal Boundary Zones**: Where two regions meet, allowing cross-seasonal processing
 - **Harmony Pools**: Special locations where all four seasons have equal influence
-- **Spirit-Touched Groves**: Areas where haldi spirits assist in processing
+- **Spirit-Touched Groves**: Areas where veridian spirits assist in processing
 - **Ancient Crafting Sites**: Locations with forgotten techniques and enhanced properties
 
 ---

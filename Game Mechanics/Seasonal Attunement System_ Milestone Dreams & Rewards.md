@@ -24,7 +24,7 @@ homes.
 
     -   Gathering region-specific resources
 
-    -   Helping haldi spirits
+    -   Helping veridian spirits
 
 ### **Subtle Indicators**
 
@@ -51,7 +51,7 @@ Each dream follows a pattern:
 1.  **Vision Introduction**: Companion animal guides player into the
     dream
 
-2.  **Ancestral Memory**: Meeting with an ancient Noaidi who shares
+2.  **Ancestral Memory**: Meeting with an ancient Thaum who shares
     wisdom
 
 3.  **Spiritual Test**: A challenge of understanding rather than skill
@@ -65,7 +65,7 @@ Each dream follows a pattern:
 
 -   **Vision**: Bloom leads player through an endless flowering meadow
 
--   **Memory**: Ancient Spring Noaidi shows how the first plants were
+-   **Memory**: Ancient Spring Thaum shows how the first plants were
     awakened
 
 -   **Test**: Player must identify which seedling needs help most
@@ -301,7 +301,7 @@ A special in-game book automatically records all attunement dreams:
 -   **Visual Record**: Illustrations of each vision appear as they\'re
     experienced
 
--   **Wisdom Text**: The knowledge shared by ancestral Noaidi is
+-   **Wisdom Text**: The knowledge shared by ancestral Thaum is
     recorded
 
 -   **Collection Tracking**: Shows which decoration pieces have been

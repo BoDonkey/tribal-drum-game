@@ -41,7 +41,7 @@ discover rare fireberries that only appear when Ember is active.
 
 **Drumming-Based Collection**
 
--   Integrate your Noaidi drumming system into the gathering process
+-   Integrate your Thaum drumming system into the gathering process
 
 -   Different drum rhythms influence what resources spawn in an area
 
@@ -94,11 +94,11 @@ or duration.
 
 ## **Communal Crafting**
 
-**Haldi Offering System**
+**veridian Offering System**
 
 -   Players can establish crafting circles at special locations
 
--   Regular offerings of crafted items to the haldi spirits improve
+-   Regular offerings of crafted items to the veridian spirits improve
     local resources
 
 -   Neglected areas slowly return to natural states, encouraging
@@ -1063,7 +1063,7 @@ a limitation:
 
 **Special Acquisitions**
 
--   Rare outfit pieces from helping haldi spirits
+-   Rare outfit pieces from helping veridian spirits
 
 -   Ceremonial attire from completing seasonal rituals
 
@@ -1473,7 +1473,7 @@ comfort level while still creating personally meaningful items.
 
 -   Shared meals strengthen bonds and unlock special interactions
 
--   Food offerings for haldi spirits to improve regional harmony
+-   Food offerings for veridian spirits to improve regional harmony
 
 ### **Companion Treats**
 
@@ -1588,7 +1588,7 @@ comfort level while still creating personally meaningful items.
 
 -   **Harmony Talismans**: Protect from seasonal discord
 
--   **Spirit-Speaker Charms**: Enhance communication with haldi
+-   **Spirit-Speaker Charms**: Enhance communication with veridian
 
 -   **Guardian Totems**: Protect homes and areas from disruption
 
@@ -1656,7 +1656,7 @@ station.
 
 **Spirit-Assisted Workstations**
 
--   Small haldi spirits gather at natural power spots
+-   Small veridian spirits gather at natural power spots
 
 -   They lend their abilities to help shape materials
 

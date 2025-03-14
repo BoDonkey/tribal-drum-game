@@ -92,5 +92,5 @@ As if in response, the amber light pulsed once, filling the room with a sense of
 
 Niera leaned back against Bloom's warm side, watching the patterns shimmer on the walls. Tomorrow they would return to her spring home with the Preservation Fungi and the knowledge of this place. Another small victory against the encroaching Fifth Season—another fragment of harmony restored to a world struggling to maintain its balance.
 
-For now, though, they would rest and dream, perhaps receiving new wisdom from the ancestral Noaidi who guided all guardians. Outside, winter claimed the autumn lands for a night, but here, in this ancient shelter, the true rhythm of the seasons played on, unbroken.
+For now, though, they would rest and dream, perhaps receiving new wisdom from the ancestral Thaum who guided all guardians. Outside, winter claimed the autumn lands for a night, but here, in this ancient shelter, the true rhythm of the seasons played on, unbroken.
 

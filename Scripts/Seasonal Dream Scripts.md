@@ -21,26 +21,26 @@ path\]
 
 \[They arrive at a sacred circle of ancient trees\]
 
-\[An elderly Noaidi (spiritual guide) sits at the center, playing a
+\[An elderly Thaum (spiritual guide) sits at the center, playing a
 drum\]
 
-\[The Noaidi has features that slightly resemble the player\]
+\[The Thaum has features that slightly resemble the player\]
 
-ANCIENT NOAIDI: \*At last you have come. The spring recognizes your
+ANCIENT THAUM: \*At last you have come. The spring recognizes your
 spirit.\*
 
-\[Noaidi gestures and the ground becomes transparent, revealing an
+\[Thaum gestures and the ground becomes transparent, revealing an
 intricate network of roots beneath\]
 
-ANCIENT NOAIDI: \*Before the seasons were divided, all life knew how to
+ANCIENT THAUM: \*Before the seasons were divided, all life knew how to
 speak together. Watch\...\*
 
 \[A vision appears of the first spring after creation, plants
 awakening\]
 
-\[The Noaidi shows how the first healers communicated with the plants\]
+\[The Thaum shows how the first healers communicated with the plants\]
 
-ANCIENT NOAIDI: \*This knowledge is returning to you now. But to truly
+ANCIENT THAUM: \*This knowledge is returning to you now. But to truly
 understand, you must choose.\*
 
 \[Three seedlings appear before the player, each struggling in different
@@ -48,7 +48,7 @@ ways\]
 
 \[One is drought-stricken, one is overshadowed, one has tangled roots\]
 
-ANCIENT NOAIDI: \*Which needs your aid most urgently? Trust your
+ANCIENT THAUM: \*Which needs your aid most urgently? Trust your
 instinct.\*
 
 \[Player must select one seedling - this is not a test with right/wrong
@@ -57,11 +57,11 @@ answers, but a character moment\]
 \[Whatever seedling the player chooses, they\'re guided to help it in
 the appropriate way\]
 
-ANCIENT NOAIDI: \*You understand. The wisdom of spring is within you.\*
+ANCIENT THAUM: \*You understand. The wisdom of spring is within you.\*
 
 \[The seedling the player helped transforms into a glowing sapling\]
 
-ANCIENT NOAIDI: \*Take this with you when you wake. It carries the
+ANCIENT THAUM: \*Take this with you when you wake. It carries the
 memory of this dream and will grow as your connection to spring
 deepens.\*
 
@@ -95,11 +95,11 @@ BLOOM: \*The waters remember you now. Come deeper.\*
 
 \[Small water spirits appear, dancing around the player\]
 
-\[They arrive at an underground spring where the Ancient Noaidi awaits\]
+\[They arrive at an underground spring where the Ancient Thaum awaits\]
 
-\[The Noaidi is now knee-deep in the glowing water\]
+\[The Thaum is now knee-deep in the glowing water\]
 
-ANCIENT NOAIDI: \*Your connection grows. Now I will show you how the
+ANCIENT THAUM: \*Your connection grows. Now I will show you how the
 first healing came to be.\*
 
 \[Vision shows ancient healers discovering the properties of spring
@@ -108,7 +108,7 @@ water\]
 \[They learned to direct water to different plants for different healing
 effects\]
 
-ANCIENT NOAIDI: \*The waters respond to intention. Show me you
+ANCIENT THAUM: \*The waters respond to intention. Show me you
 understand.\*
 
 \[A miniature garden appears with different ailing plants\]
@@ -117,12 +117,12 @@ understand.\*
 
 \[As each plant is healed, it releases different colored energy\]
 
-ANCIENT NOAIDI: \*The waters flow through you now. You carry their
+ANCIENT THAUM: \*The waters flow through you now. You carry their
 memory.\*
 
 \[The streams of water converge into a small fountain sculpture\]
 
-ANCIENT NOAIDI: \*This will remind you of the water\'s wisdom. Place it
+ANCIENT THAUM: \*This will remind you of the water\'s wisdom. Place it
 where you dwell, and it will never run dry.\*
 
 \[Water spirals around player, lifting them upward\]
@@ -152,18 +152,18 @@ all that will grow.\*
 
 \[Wind spirits dance around them, singing in ancient languages\]
 
-\[They arrive at a platform of clouds where the Ancient Noaidi floats\]
+\[They arrive at a platform of clouds where the Ancient Thaum floats\]
 
-\[The Noaidi now appears younger and more vibrant\]
+\[The Thaum now appears younger and more vibrant\]
 
-ANCIENT NOAIDI: \*You have grown strong in spring\'s ways. Now witness
+ANCIENT THAUM: \*You have grown strong in spring\'s ways. Now witness
 how seasons first changed.\*
 
 \[Vision shows the first transition from Spring to Summer\]
 
 \[The delicate balance of wind, water, and sunlight in perfect harmony\]
 
-ANCIENT NOAIDI: \*The breath of spring guides new life. Direct it
+ANCIENT THAUM: \*The breath of spring guides new life. Direct it
 wisely.\*
 
 \[Sleeping animal forms appear in the clouds\]
@@ -172,12 +172,12 @@ wisely.\*
 
 \[As each receives breath, they awaken and join a growing circle\]
 
-ANCIENT NOAIDI: \*You understand how to channel spring\'s awakening.
+ANCIENT THAUM: \*You understand how to channel spring\'s awakening.
 Take this gift.\*
 
 \[The winds converge into a set of beautiful wind chimes\]
 
-ANCIENT NOAIDI: \*Hang these in your dwelling. They will sing with
+ANCIENT THAUM: \*Hang these in your dwelling. They will sing with
 spring\'s voice and draw gentle creatures to your home.\*
 
 \[The wind swirls powerfully but gently around player\]
@@ -214,7 +214,7 @@ dreams\]
 
 \[They arrive at a cosmic garden of impossible beauty\]
 
-\[At its center stands not the Noaidi, but the Spring Guardian - a
+\[At its center stands not the Thaum, but the Spring Guardian - a
 majestic entity of pure seasonal energy\]
 
 SPRING GUARDIAN: \*You have walked the path of renewal truly. Now you
@@ -284,42 +284,42 @@ player keeps up\]
 
 \[They arrive at a circle of standing stones, radiating heat\]
 
-\[An Ancient Noaidi tends a fire at the center, features slightly
+\[An Ancient Thaum tends a fire at the center, features slightly
 resembling the player\]
 
-ANCIENT NOAIDI: \*The summer fire recognizes your spirit. It has been
+ANCIENT THAUM: \*The summer fire recognizes your spirit. It has been
 waiting.\*
 
-\[Noaidi gestures to the flames, which form images\]
+\[Thaum gestures to the flames, which form images\]
 
-ANCIENT NOAIDI: \*In the beginning, all creatures feared fire. Watch how
+ANCIENT THAUM: \*In the beginning, all creatures feared fire. Watch how
 they learned\...\*
 
 \[Vision shows the first summer after creation, how animals discovered
 fire\'s gifts\]
 
-\[The Noaidi demonstrates how fire was first tamed and used\]
+\[The Thaum demonstrates how fire was first tamed and used\]
 
-ANCIENT NOAIDI: \*This knowledge returns to you now. But first, you must
+ANCIENT THAUM: \*This knowledge returns to you now. But first, you must
 choose.\*
 
 \[Three small fires appear, each struggling differently\]
 
 \[One flickers too low, one burns too hot, one is smothered by wind\]
 
-ANCIENT NOAIDI: \*Which requires your attention most urgently? Trust
+ANCIENT THAUM: \*Which requires your attention most urgently? Trust
 your instinct.\*
 
 \[Player selects one fire to tend - character moment, not right/wrong\]
 
 \[Player is guided to help the chosen fire in the appropriate way\]
 
-ANCIENT NOAIDI: \*You understand the balance. Summer\'s vitality flows
+ANCIENT THAUM: \*You understand the balance. Summer\'s vitality flows
 through you.\*
 
 \[The balanced fire transforms into a small, eternal flame\]
 
-ANCIENT NOAIDI: \*This ember never dies. Take it when you wake, let it
+ANCIENT THAUM: \*This ember never dies. Take it when you wake, let it
 warm your dwelling and your spirit.\*
 
 \[Ember approaches, touching nose to player\'s hand\]
@@ -351,10 +351,10 @@ EMBER: \*Can you feel it? The peak of power! Come see!\*
 
 \[Heat spirits dance around them, testing but not harming\]
 
-\[They arrive at a platform where the Ancient Noaidi observes the sun
+\[They arrive at a platform where the Ancient Thaum observes the sun
 through a crystal\]
 
-ANCIENT NOAIDI: \*You return stronger. Now see how summer\'s power was
+ANCIENT THAUM: \*You return stronger. Now see how summer\'s power was
 first harnessed.\*
 
 \[Vision shows ancient crafters capturing sunlight in stones and
@@ -363,7 +363,7 @@ crystals\]
 \[The discovery of how different materials hold the sun\'s energy
 differently\]
 
-ANCIENT NOAIDI: \*The sun\'s power requires focus and balance. Show me
+ANCIENT THAUM: \*The sun\'s power requires focus and balance. Show me
 your understanding.\*
 
 \[A series of crystals appears, each needing alignment with the sun\]
@@ -372,12 +372,12 @@ your understanding.\*
 
 \[When aligned correctly, the light forms a complex energy circuit\]
 
-ANCIENT NOAIDI: \*You direct the sun\'s power wisely. This knowledge is
+ANCIENT THAUM: \*You direct the sun\'s power wisely. This knowledge is
 now yours.\*
 
 \[The light converges into a hovering sun dial artifact\]
 
-ANCIENT NOAIDI: \*Place this in your dwelling. It will store the day\'s
+ANCIENT THAUM: \*Place this in your dwelling. It will store the day\'s
 light and release it when needed.\*
 
 \[Sunlight spirals around the player, infusing them\]
@@ -413,15 +413,15 @@ patterns\]
 \[They arrive at a clearing where patterns of leaves form a natural
 mandala\]
 
-\[Ancient Noaidi sits at center, arranging leaves with precise
+\[Ancient Thaum sits at center, arranging leaves with precise
 movements\]
 
-ANCIENT NOAIDI: \*The autumn acknowledges you. You begin to hear its
+ANCIENT THAUM: \*The autumn acknowledges you. You begin to hear its
 voice.\*
 
-\[Noaidi sweeps hand, causing leaves to swirl into temporal visions\]
+\[Thaum sweeps hand, causing leaves to swirl into temporal visions\]
 
-ANCIENT NOAIDI: \*Before time was measured, the turning leaves taught us
+ANCIENT THAUM: \*Before time was measured, the turning leaves taught us
 about cycles. Watch\...\*
 
 \[Vision shows the first autumn, how early people learned to preserve
@@ -429,7 +429,7 @@ and prepare\]
 
 \[The wisdom of transformation and the beauty of impermanence\]
 
-ANCIENT NOAIDI: \*This ancient knowledge stirs in you. But first, you
+ANCIENT THAUM: \*This ancient knowledge stirs in you. But first, you
 must recognize patterns.\*
 
 \[Three leaf formations appear, each containing different patterns\]
@@ -437,20 +437,20 @@ must recognize patterns.\*
 \[One shows past events, one present conditions, one future
 possibilities\]
 
-ANCIENT NOAIDI: \*Which pattern speaks most urgently to you now? Trust
+ANCIENT THAUM: \*Which pattern speaks most urgently to you now? Trust
 your perception.\*
 
 \[Player selects one pattern - character-defining moment\]
 
 \[The chosen pattern expands, revealing deeper meanings\]
 
-ANCIENT NOAIDI: \*You see beyond the surface. Autumn\'s wisdom begins to
+ANCIENT THAUM: \*You see beyond the surface. Autumn\'s wisdom begins to
 unfold for you.\*
 
 \[The leaf pattern solidifies into an intricate mobile of preserved
 leaves\]
 
-ANCIENT NOAIDI: \*This will help you remember what the leaves taught
+ANCIENT THAUM: \*This will help you remember what the leaves taught
 you. It holds autumn\'s first lesson.\*
 
 \[Wispy glides to perch on player\'s shoulder\]
@@ -486,15 +486,15 @@ empty\]
 \[They arrive at a frozen lake where geometric ice formations create a
 natural temple\]
 
-\[Ancient Noaidi sits in meditation, breath visible but creating no
+\[Ancient Thaum sits in meditation, breath visible but creating no
 sound\]
 
-ANCIENT NOAIDI: \*Winter recognizes your spirit. You begin to understand
+ANCIENT THAUM: \*Winter recognizes your spirit. You begin to understand
 its stillness.\*
 
-\[Noaidi touches the ice, sending patterns racing across the surface\]
+\[Thaum touches the ice, sending patterns racing across the surface\]
 
-ANCIENT NOAIDI: \*Before warmth, there was stillness. In this state, the
+ANCIENT THAUM: \*Before warmth, there was stillness. In this state, the
 deepest wisdom was found. Observe\...\*
 
 \[Vision shows the first winter, how stillness preserved life and
@@ -502,7 +502,7 @@ clarified thought\]
 
 \[The discovery of how ice holds memory and protection\]
 
-ANCIENT NOAIDI: \*This knowledge awaits within you. But first, you must
+ANCIENT THAUM: \*This knowledge awaits within you. But first, you must
 find clarity.\*
 
 \[Three ice crystals appear, each containing different scenes frozen
@@ -510,19 +510,19 @@ within\]
 
 \[One shows strength, one shows protection, one shows perfect clarity\]
 
-ANCIENT NOAIDI: \*Which quality of winter speaks most to your heart?
+ANCIENT THAUM: \*Which quality of winter speaks most to your heart?
 Look deeply.\*
 
 \[Player selects one crystal - character-defining choice\]
 
 \[The chosen crystal expands, enveloping player in its quality\]
 
-ANCIENT NOAIDI: \*You understand the gift of winter\'s stillness.\*
+ANCIENT THAUM: \*You understand the gift of winter\'s stillness.\*
 
 \[The crystal transforms into an intricate ice chime that somehow
 doesn\'t melt\]
 
-ANCIENT NOAIDI: \*This will remind you of winter\'s first lesson. It
+ANCIENT THAUM: \*This will remind you of winter\'s first lesson. It
 will bring clarity to your dwelling.\*
 
 \[Frost approaches, touching forehead to player\'s hand\]
@@ -556,13 +556,13 @@ grow and bloom in accelerated cycles\]
 
 \[Spring growth and summer ripening happening simultaneously\]
 
-\[They arrive at a place where two Ancient Noaidi sit back-to-back\]
+\[They arrive at a place where two Ancient Thaum sit back-to-back\]
 
 \[One surrounded by flowers, one by dancing flames\]
 
-SPRING NOAIDI: \*You have walked both our paths with understanding.\*
+SPRING THAUM: \*You have walked both our paths with understanding.\*
 
-SUMMER NOAIDI: \*Now see how our energies were meant to dance
+SUMMER THAUM: \*Now see how our energies were meant to dance
 together.\*
 
 \[Vision shows the natural transition and interdependence of spring and
@@ -570,10 +570,10 @@ summer\]
 
 \[How growth needs energy, how energy needs new growth\]
 
-SPRING NOAIDI: \*The division between seasons was never meant to be
+SPRING THAUM: \*The division between seasons was never meant to be
 complete.\*
 
-SUMMER NOAIDI: \*Yet now the balance requires your understanding.\*
+SUMMER THAUM: \*Yet now the balance requires your understanding.\*
 
 \[A circular garden appears, half spring flowers, half summer grains\]
 
@@ -585,13 +585,13 @@ energy from the summer side\]
 \[As balance is achieved, the boundary between the sections blurs
 harmoniously\]
 
-BOTH NOAIDI: \*You understand our unity. Take this reminder of our
+BOTH THAUM: \*You understand our unity. Take this reminder of our
 joined wisdom.\*
 
 \[The balanced garden miniaturizes into a beautiful half-green,
 half-gold artifact\]
 
-BOTH NOAIDI: \*Place this between our other gifts in your dwelling. It
+BOTH THAUM: \*Place this between our other gifts in your dwelling. It
 will help bridge our energies.\*
 
 \[Bloom and Ember circle the player, their energies creating a
@@ -634,19 +634,19 @@ impossibly\]
 
 \[Snow falls on summer fields, autumn leaves grow on spring trees\]
 
-\[Four shadowy Noaidi figures appear at the cardinal directions\]
+\[Four shadowy Thaum figures appear at the cardinal directions\]
 
 \[Between them is a swirling void where a fifth figure occasionally
 becomes visible\]
 
-SPRING NOAIDI: \*It stirs again after long slumber.\*
+SPRING THAUM: \*It stirs again after long slumber.\*
 
-SUMMER NOAIDI: \*The boundaries between us grow thin in the wrong
+SUMMER THAUM: \*The boundaries between us grow thin in the wrong
 places.\*
 
-AUTUMN NOAIDI: \*The cycle threatens to break its pattern.\*
+AUTUMN THAUM: \*The cycle threatens to break its pattern.\*
 
-WINTER NOAIDI: \*The stillness is disturbed by what should not be.\*
+WINTER THAUM: \*The stillness is disturbed by what should not be.\*
 
 \[The void between them pulses, showing glimpses of a chaotic
 landscape\]
@@ -657,9 +657,9 @@ energies\]
 FIFTH PRESENCE: (barely audible) \*I am the forgotten. I am the
 excluded. I will be remembered.\*
 
-\[The four Noaidi turn to the player\]
+\[The four Thaum turn to the player\]
 
-ALL NOAIDI: \*You who walk between seasons, you must understand what
+ALL THAUM: \*You who walk between seasons, you must understand what
 approaches.\*
 
 \[They gesture to the void, which reveals fragments of the Fifth
@@ -668,7 +668,7 @@ Season\]
 \[Unlike the corrupted vision earlier, this shows its true nature - not
 evil, but unbalanced\]
 
-ALL NOAIDI: \*Not destruction, but distortion. Not enemy, but lost
+ALL THAUM: \*Not destruction, but distortion. Not enemy, but lost
 kin.\*
 
 \[The vision shifts to show ancient history, when five seasons existed
@@ -676,7 +676,7 @@ in harmony\]
 
 \[Then a cataclysm that led to the fifth being separated\]
 
-ALL NOAIDI: \*What was sundered seeks reunion. But the way matters.\*
+ALL THAUM: \*What was sundered seeks reunion. But the way matters.\*
 
 \[The vision fades to darkness, leaving only the companions\]
 
@@ -709,15 +709,15 @@ four seasonal quarters\]
 
 ALL COMPANIONS: \*The cycle recognizes you as its guardian.\*
 
-\[The companions lead player to the center where the four Ancient Noaidi
+\[The companions lead player to the center where the four Ancient Thaum
 wait\]
 
 \[They stand together, forming a circle\]
 
-ALL NOAIDI: \*You have walked all paths with understanding. Now see the
+ALL THAUM: \*You have walked all paths with understanding. Now see the
 complete pattern.\*
 
-\[The Noaidi join hands, creating a circle around player\]
+\[The Thaum join hands, creating a circle around player\]
 
 \[Energy flows between them, forming a complex rotating mandala of
 seasonal energies\]
@@ -727,20 +727,20 @@ of seasons\]
 
 \[But there is a subtle imbalance, a space where something is missing\]
 
-SPRING NOAIDI: \*The cycle was not always as you see it now.\*
+SPRING THAUM: \*The cycle was not always as you see it now.\*
 
-SUMMER NOAIDI: \*What was five became four in the ancient time.\*
+SUMMER THAUM: \*What was five became four in the ancient time.\*
 
-AUTUMN NOAIDI: \*Not destruction, but transformation is needed.\*
+AUTUMN THAUM: \*Not destruction, but transformation is needed.\*
 
-WINTER NOAIDI: \*Not rejection, but reintegration is the path.\*
+WINTER THAUM: \*Not rejection, but reintegration is the path.\*
 
 \[The mandala expands, showing how the Fifth Season once fit into the
 pattern\]
 
 \[Not as chaos, but as transition, catalyst, and bridge\]
 
-ALL NOAIDI: \*The Fifth seeks return. With wisdom, you may guide this
+ALL THAUM: \*The Fifth seeks return. With wisdom, you may guide this
 reintegration.\*
 
 \[The mandala contracts, condensing into a perfect crystalline sphere\]
@@ -748,7 +748,7 @@ reintegration.\*
 \[Inside, miniature versions of all seasonal regions rotate around a
 central light\]
 
-ALL NOAIDI: \*This is the Heart of Harmony. With it, your central
+ALL THAUM: \*This is the Heart of Harmony. With it, your central
 dwelling will become a place of perfect balance.\*
 
 \[The companions approach, each touching the sphere with their
