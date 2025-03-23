@@ -1,0 +1,24 @@
+[gd_scene load_steps=5 format=3 uid="uid://ch10qltyonpcd"]
+
+[ext_resource type="Script" path="res://scripts/resources/spring_moss.gd" id="1_fiqiq"]
+[ext_resource type="PackedScene" uid="uid://docs4j3udfc8" path="res://scenes/resources/resource_base.tscn" id="2_jgkyc"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_kdh08"]
+albedo_color = Color(0.0156863, 0.698039, 0.00392157, 1)
+roughness = 0.3
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_84rd0"]
+material = SubResource("StandardMaterial3D_kdh08")
+top_radius = 0.7
+bottom_radius = 0.8
+height = 0.3
+
+[node name="SpringMoss" type="Node3D"]
+script = ExtResource("1_fiqiq")
+
+[node name="ResourceBase" parent="." instance=ExtResource("2_jgkyc")]
+
+[node name="Model" parent="ResourceBase" index="1"]
+mesh = SubResource("CylinderMesh_84rd0")
+
+[editable path="ResourceBase"]

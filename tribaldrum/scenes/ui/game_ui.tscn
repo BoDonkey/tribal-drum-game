@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://s07c6mhlhqlq"]
+
+[ext_resource type="Script" path="res://scenes/ui/game_ui.gd" id="1_6eh47"]
+
+[node name="GameUI" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_6eh47")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+horizontal_alignment = 1

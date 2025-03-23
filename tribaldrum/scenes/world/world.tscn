@@ -1,0 +1,38 @@
+[gd_scene load_steps=6 format=3 uid="uid://dmu3y5j0qcstb"]
+
+[ext_resource type="PackedScene" uid="uid://bx8anod3lsf3v" path="res://scenes/player/player.tscn" id="1_gq3lf"]
+[ext_resource type="PackedScene" uid="uid://ch10qltyonpcd" path="res://scenes/resources/spring_moss.tscn" id="2_dxnau"]
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_8uc7i"]
+size = Vector2(40, 40)
+subdivide_width = 10
+subdivide_depth = 10
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_thl1i"]
+albedo_color = Color(0.301961, 0.541176, 0.239216, 1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_lqjy6"]
+size = Vector3(40, 1, 40)
+
+[node name="World" type="Node3D"]
+
+[node name="Terrain" type="MeshInstance3D" parent="."]
+mesh = SubResource("PlaneMesh_8uc7i")
+surface_material_override/0 = SubResource("StandardMaterial3D_thl1i")
+
+[node name="TerrainCollision" type="StaticBody3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="TerrainCollision"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.5, 0)
+shape = SubResource("BoxShape3D_lqjy6")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.707107, -0.5, 0.5, 0, 0.707107, 0.707107, -0.707107, -0.5, 0.5, 0, 10, 0)
+
+[node name="Player" parent="." instance=ExtResource("1_gq3lf")]
+
+[node name="SpringMoss" parent="." instance=ExtResource("2_dxnau")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5, 0.05, 5)
+
+[node name="SpringMoss2" parent="." instance=ExtResource("2_dxnau")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, 10)

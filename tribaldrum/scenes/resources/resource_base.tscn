@@ -1,0 +1,31 @@
+[gd_scene load_steps=6 format=3 uid="uid://docs4j3udfc8"]
+
+[ext_resource type="Script" path="res://resource_base.gd" id="1_mgkyq"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_0ukfe"]
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_df8l6"]
+top_radius = 0.7
+bottom_radius = 0.8
+height = 0.3
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_2u44i"]
+albedo_color = Color(0.32549, 0.690196, 0.164706, 1)
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_b2ay8"]
+radius = 1.0
+
+[node name="ResourceBase" type="StaticBody3D"]
+script = ExtResource("1_mgkyq")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("SphereShape3D_0ukfe")
+
+[node name="Model" type="MeshInstance3D" parent="."]
+mesh = SubResource("CylinderMesh_df8l6")
+surface_material_override/0 = SubResource("StandardMaterial3D_2u44i")
+
+[node name="InteractionArea" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="InteractionArea"]
+shape = SubResource("SphereShape3D_b2ay8")
